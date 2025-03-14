@@ -1,0 +1,10 @@
+/* Toast styling */
+[aria-label="Notifications alt+T"] ol li {
+	height: fit-content !important;
+	width: fit-content !important;
+}
+
+[aria-label="Notifications alt+T"] ol li div:last-of-type div {
+    padding-right: 1rem;
+	white-space: pre;
+}
